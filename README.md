@@ -41,7 +41,7 @@
 
 
 + Languages: Java, JavaScript, HTML5, CSS
-+ Library: JSTL, JDBC 드라이버
++ Library: JSP, JDBC 드라이버
 + API: JDBC
 + Server: Apache Tomcat
 + DB: Oracle
